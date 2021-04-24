@@ -111,7 +111,6 @@ zsh
 
 #Arch Linux GUI KDE XFCE
 xfce4
-xfce4-goodies
 xorg
 lightdm-gtk-greeter
 xdg-user-dirs
