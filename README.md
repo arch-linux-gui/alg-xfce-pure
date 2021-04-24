@@ -1,2 +1,2 @@
 # alg-gnome-pure
-ALG edition with stock GNOME 40.
+ALG edition with stock XFCE 4.
