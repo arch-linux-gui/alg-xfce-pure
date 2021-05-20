@@ -2,7 +2,6 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 alsa-utils
 amd-ucode
-archinstall
 arch-install-scripts
 b43-fwcutter
 base
@@ -80,10 +79,8 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
 sdparm
 sg3_utils
-sl
 smartmontools
 sof-firmware
 squashfs-tools
@@ -94,12 +91,10 @@ tcpdump
 terminus-font
 termite-terminfo
 testdisk
-tmux
 udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 vpnc
 wireless-regdb
 wireless_tools
@@ -111,11 +106,14 @@ zsh
 
 #Arch Linux GUI XFCE
 xfce4
-xorg
+xorg-server
+lightdm
 lightdm-gtk-greeter
 xdg-user-dirs
 bash-completion
 networkmanager
+network-manager-applet
+mousepad
 
 #Installer
 grub
