@@ -112,6 +112,7 @@ bash-completion
 networkmanager
 network-manager-applet
 mousepad
+gvfs
 
 #Installer
 grub
