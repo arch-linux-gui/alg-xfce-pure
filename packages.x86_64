@@ -121,5 +121,5 @@ ttf-unifont
 #Installer
 grub
 calamares
-alg-min-cala-config
+alg-pure-cala-config
 os-prober
