@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="alg-xfce"
+iso_name="alg-xfce-pure"
 iso_label="ALG_XFCE_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="DemonKiller <https://demonkiller.tech>"
 iso_application="ALG Live/Rescue CD"
